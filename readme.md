@@ -3,4 +3,5 @@ Task
 
 - [x] MongoDB Connect
 - [x] Client Init
-- [ ] Form 
+- [ ] UI for CRUD
+- [ ] Finishing Backend
